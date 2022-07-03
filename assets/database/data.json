@@ -16,12 +16,6 @@
                 "url": "tel:07781681789"
             },
             {
-                "key": "email",
-                "value": "ngphuthong92@gmail.com",
-                "icon": "mail",
-                "url": "mailto:ngphuthong2@gmail.com"
-            },
-            {
                 "key": "facebook",
                 "value": "@npthong92",
                 "icon": "facebook-new",
@@ -32,12 +26,6 @@
                 "value": "Địa chỉ",
                 "icon": "marker",
                 "url": "https://www.google.com/search?q=Cần+Thơ"
-            },
-            {
-                "key": "company",
-                "value": "Tên công ty",
-                "icon": "company",
-                "url": "https://indivisys.jp/"
             },
             {
                 "key": "zalo",
