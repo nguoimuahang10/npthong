@@ -1,37 +1,31 @@
 [
     {
-        "user": "userName",
+        "user": "npthong",
         "data":
         [
             {
                 "key": "name",
-                "value": "Họ tên",
+                "value": "Nguyễn Phú Thông",
                 "icon": "user-male-circle",
                 "url": "#"
             },
             {
                 "key": "phone",
-                "value": "*** *** ** **",
+                "value": "07781681789",
                 "icon": "phone",
-                "url": "tel:+84944615969"
+                "url": "tel:07781681789"
             },
             {
                 "key": "email",
-                "value": "cphuong219219@gmail.com",
+                "value": "ngphuthong2@gmail.com",
                 "icon": "mail",
-                "url": "mailto:cphuong219219@gmail.com"
+                "url": "mailto:ngphuthong2@gmail.com"
             },
             {
                 "key": "facebook",
-                "value": "@tchiphuong",
+                "value": "@npthong2",
                 "icon": "facebook-new",
-                "url": "fb://profile/100008161321386/"
-            },
-            {
-                "key": "github",
-                "value": "@tcphuong",
-                "icon": "github",
-                "url": "https://www.github.com/tchiphuong/"
+                "url": "fb://profile/100026296656353"
             },
             {
                 "key": "location",
@@ -47,9 +41,9 @@
             },
             {
                 "key": "zalo",
-                "value": "Tên Zalo",
+                "value": "Thông Nguyễn",
                 "icon": "zalo",
-                "url": "http://zalo.me/sdt"
+                "url": "http://zalo.me/0778168789"
             }
         ]
     },
