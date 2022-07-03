@@ -22,17 +22,17 @@
                 "url": "fb://profile/100026296656353"
             },
             {
+                "key": "zalo",
+                "value": "Thông Nguyễn",
+                "icon": "zalo",
+                "url": "http://zalo.me/0778168789"
+            },
+            {
                 "key": "location",
                 "value": "Địa chỉ",
                 "icon": "marker",
                 "url": "https://www.google.com/search?q=Cần+Thơ"
             },
-            {
-                "key": "zalo",
-                "value": "Thông Nguyễn",
-                "icon": "zalo",
-                "url": "http://zalo.me/0778168789"
-            }
         ]
     },
     {
