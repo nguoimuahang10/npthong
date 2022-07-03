@@ -4,8 +4,8 @@
         "data":
         [
             {
-                "key": "Nguyễn Phú Thông",
-                "value": " ",
+                "key": "name",
+                "value": "Nguyễn Phú Thông",
                 "icon": "user-male-circle",
                 "url": "#"
             },
