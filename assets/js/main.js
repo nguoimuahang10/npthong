@@ -26,7 +26,7 @@ $(function(){
 
     setLanguage(localStorage.getItem("langId") || navigator.language.substring(0,2));
     function setLanguage(langCode){
-        var jsonUrl = "../src/assets/lang/" + langCode + ".json";
+        var jsonUrl = "../assets/lang/" + langCode + ".json";
         $.ajax({
             url: jsonUrl,
             dataType: "json",
@@ -80,7 +80,7 @@ $(function(){
     GetData()
     function GetData(){
         $("#list-data").empty();
-        var jsonUrl = "../src/assets/database/data.json";
+        var jsonUrl = "../assets/database/data.json";
         $.ajax({
             url: jsonUrl,
             dataType: "json",
