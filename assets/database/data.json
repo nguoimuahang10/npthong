@@ -72,12 +72,12 @@
         ]
     },
         {
-        "user": "ptkthanh",
+        "user": "pkthanh",
         "data":
         [
             {
                 "key": "name",
-                "value": "Phan Thị Kim Thanh",
+                "value": "Phan Kim Thanh",
                 "icon": "user-male-circle",
                 "url": "#"
             },
