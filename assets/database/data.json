@@ -113,7 +113,7 @@
         [
             {
                 "key": "name",
-                "value": "Phan Kim Thanh",
+                "value": "Đức Huỳnh",
                 "icon": "user-male-circle",
                 "url": "#"
             },
@@ -121,25 +121,25 @@
                 "key": "phone",
                 "value": "**********",
                 "icon": "phone",
-                "url": "tel:0944160222"
+                "url": "tel:0787372277"
             },
             {
                 "key": "facebook",
-                "value": "Pham Kim Thanh",
+                "value": "Đức Huỳnh",
                 "icon": "facebook-new",
-                "url": "fb://profile/100005389626381"
+                "url": "fb://profile/100005072528768"
             },
             {
                 "key": "zalo",
                 "value": "Kim Thanh",
                 "icon": "zalo",
-                "url": "http://zalo.me/0944160222"
+                "url": "http://zalo.me/0787372277"
             },
             {
                 "key": "location",
                 "value": "Địa chỉ",
                 "icon": "marker",
-                "url": "https://www.google.com/search?q=Cần+Thơ"
+                "url": "https://www.google.com/search?q=Vĩnh+Long"
             }
         ]
     }
