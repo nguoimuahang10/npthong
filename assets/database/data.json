@@ -71,7 +71,7 @@
             }
         ]
     },
-    {
+        {
         "user": "pkthanh",
         "data":
         [
@@ -106,41 +106,5 @@
                 "url": "https://www.google.com/search?q=Cần+Thơ"
             }
         ]
-    },
-    {
-        "user": "hio",
-        "data":
-        [
-            {
-                "key": "name",
-                "value": "Đức Huỳnh",
-                "icon": "user-male-circle",
-                "url": "#"
-            },
-            {
-                "key": "phone",
-                "value": "**********",
-                "icon": "phone",
-                "url": "tel:0787372277"
-            },
-            {
-                "key": "facebook",
-                "value": "Đức Huỳnh",
-                "icon": "facebook-new",
-                "url": "fb://profile/100005072528768"
-            },
-            {
-                "key": "zalo",
-                "value": "Đức Huỳnh",
-                "icon": "zalo",
-                "url": "http://zalo.me/0787372277"
-            },
-            {
-                "key": "location",
-                "value": "Địa chỉ",
-                "icon": "marker",
-                "url": "https://www.google.com/search?q=Vĩnh+Long"
-            }
-        ]
-    },
+    }
 ]
