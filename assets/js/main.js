@@ -51,22 +51,30 @@ $(function(){
                 if(element.user === user){
                     checkParam = true;
                     element.data.forEach(sub_element => {
-                        $("#list-data").append(
-                            `
-                                <li class="h-20 my-3 bg-white shadow-lg hover:bg-zinc-50 dark:bg-zinc-800 rounded-xl" data-aos="fade-right" data-aos-delay="` + index + `">
-                                    <a href="` + sub_element.url + `" target="_blank">
-                                        <div class="flex items-center p-4">
-                                            <img src="./assets/img/` + sub_element.icon + `.png" alt="" class="h-12">
-                                            <div class="flex-grow px-8">
-                                                <div class="text-xl font-bold capitalize">` + sub_element.key + `</div>
-                                                <div class="text-base italic">` + sub_element.value + `</div>
+                        if(sub_element.key == 'image' && sub_element.value){
+                            $(".image").attr('src', sub_element.value);
+                        }
+                        else if(sub_element.key == 'name'){
+                            $(".name").html(sub_element.value);
+                            $(".image").attr('alt', sub_element.value);
+                        } else{
+                            $("#list-data").append(
+                                `
+                                    <li class="h-20 my-3 bg-white shadow-lg hover:bg-zinc-50 dark:bg-zinc-800 rounded-xl" data-aos="fade-right" data-aos-delay="` + index + `">
+                                        <a href="` + sub_element.url + `" target="_blank">
+                                            <div class="flex items-center p-4">
+                                                <img src="./assets/img/` + sub_element.icon + `.png" alt="" class="h-12">
+                                                <div class="flex-grow px-8">
+                                                    <div class="text-xl font-bold capitalize">` + sub_element.key + `</div>
+                                                    <div class="text-base italic">` + sub_element.value + `</div>
+                                                </div>
+                                                <div><i class="fa fa-chevron-right"></i></div>
                                             </div>
-                                            <div><i class="fa fa-chevron-right"></i></div>
-                                        </div>
-                                    </a>
-                                </li>
-                            `
-                        );
+                                        </a>
+                                    </li>
+                                `
+                            )
+                        };
                         index += 100;
                     });
                 }
