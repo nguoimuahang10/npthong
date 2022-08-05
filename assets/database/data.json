@@ -11,7 +11,7 @@
             },
             {
                 "key": "image",
-                "value": "https://vanphongxanh.vn/wp-content/uploads/2022/03/logo-social.png",
+                "value": "./assets/img/boconganh.jpg",
                 "icon": "",
                 "url": ""
             },
