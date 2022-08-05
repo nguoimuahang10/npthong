@@ -166,5 +166,47 @@
                 "url": "https://www.google.com/search?q=Bình+Minh+Vĩnh+Long"
             }
         ]
+    },
+    {
+        "user": "ngocdiep",
+        "data":
+        [
+            {
+                "key": "name",
+                "value": "Ngọc Diệp",
+                "icon": "user-male-circle",
+                "url": "#"
+            },
+            {
+                "key": "image",
+                "value": "https://scontent.fvca1-1.fna.fbcdn.net/v/t39.30808-6/273211905_1440298966372106_9034490967143998407_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=cV2HK3X9sX4AX-X3-kB&tn=WxBGfqkdGz8a5Tjz&_nc_ht=scontent.fvca1-1.fna&oh=00_AT-4LhOUqMy9XWSQpLiOmv4-2fHSK1J_8f5Ocyh9HUicrg&oe=62F2B9BD",
+                "icon": "",
+                "url": ""
+            },
+            {
+                "key": "phone",
+                "value": "**********",
+                "icon": "phone",
+                "url": "tel:0909000000"
+            },
+            {
+                "key": "facebook",
+                "value": "Ngọc Diệp",
+                "icon": "facebook-new",
+                "url": "fb://profile/100011760481204"
+            },
+            {
+                "key": "zalo",
+                "value": "Ngọc Diệp",
+                "icon": "zalo",
+                "url": "http://zalo.me/0786829180"
+            },
+            {
+                "key": "location",
+                "value": "Địa chỉ",
+                "icon": "marker",
+                "url": "https://www.google.com/search?q=Cần+Thơ"
+            }
+        ]
     }
 ]
